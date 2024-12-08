@@ -1,0 +1,1 @@
+This is a simple project to refresh JS skills and practice animation. When the countdown reaches 0 on my daughter's birthday, balloons that were created with JS will rise up in random order and color. 
